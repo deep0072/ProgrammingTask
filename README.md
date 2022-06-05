@@ -12,6 +12,7 @@
 # Quickstart in Development 
 
 ## docker compose up 
+## cd UpdatedRegister then run following commands
 ## docker compose run web python manage.py migrate
 ## docker compose run web python manage.py createsuperuser
 ## then run docker-compose run web python manage.py runserver
